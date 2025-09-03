@@ -22,9 +22,9 @@ It’s a planning resource for selecting venues to submit your research papers.
 | **ICLR 2026** – Int’l Conf. on Learning Representations | Spring 2026 (TBA) | ~Oct–Nov 2025 | Representation learning, vision transformers, generative AI | [ICLR](https://iclr.cc) |
 | **AAAI 2026** – Assoc. for Advancement of AI | Feb 2026 (Singapore) | ~Aug–Sep 2025 | General AI, reasoning, ML, CV | [AAAI](https://aaai.org) |
 | **IJCAI 2026** – Int’l Joint Conf. on Artificial Intelligence | Aug 2026 (TBA) | ~Jan 2026 | General AI, ML, vision, planning | [IJCAI](https://ijcai.org) |
-| **CVPR 2026** – IEEE/CVF Conf. on Computer Vision & Pattern Recognition | June 2026 (TBA) | ~Nov 2025 | Computer vision, image analysis, pattern recognition | [CVPR](https://cvpr.thecvf.com) |
+| **CVPR 2026** – IEEE/CVF Conf. on Computer Vision & Pattern Recognition | June 2026 (TBA) | ~OCT 2025 | Computer vision, image analysis, pattern recognition | [CVPR](https://cvpr.thecvf.com/) |
 | **ECCV 2026** – European Conf. on Computer Vision | Fall 2026 (TBA) | ~Mar 2026 | Core computer vision, imaging, DL models | [ECCV](https://eccv2026.eu) |
-| **ICCV 2027** – Int’l Conf. on Computer Vision *(next after 2025)* | Oct 2027 (TBA) | — | Alternate year with ECCV | [ICCV](https://iccv2025.thecvf.com) |
+| **ICCV 2027** – Int’l Conf. on Computer Vision *(next after 2025)* | Oct 2026 (TBA) | ~Jan | Alternate year with ECCV | [ICCV](https://iccv.thecvf.com/) |
 
 ---
 
